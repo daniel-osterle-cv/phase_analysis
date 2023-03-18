@@ -1,385 +1,385 @@
-well,RFP,BFP,GFP,
-A01,211,411,K32,
-A02,211,421,K32,
-A03,211,655,K32,
-A04,211,411,K33,
-A05,211,421,K33,
-A06,211,655,K33,
-A07,211,411,K34,
-A08,211,421,K34,
-A09,211,655,K34,
-A10,211,411,K42,
-A11,211,421,K42,
-A12,211,655,K42,
-A13,211,411,K43,
-A14,211,421,K43,
-A15,211,655,K43,
-A16,211,411,K52,
-A17,211,421,K52,
-A18,211,655,K52,
-A19,211,411,K53,
-A20,211,421,K53,
-A21,211,655,K53,
-A22,211,411,K62,
-A23,211,421,K62,
-A24,211,655,K62,
-B01,211,411,K63,
-B02,211,421,K63,
-B03,211,655,K63,
-B04,211,411,K72,
-B05,211,421,K72,
-B06,211,655,K72,
-B07,211,411,K73,
-B08,211,421,K73,
-B09,211,655,K73,
-B10,211,411,K82,
-B11,211,421,K82,
-B12,211,655,K82,
-B13,211,411,K83,
-B14,211,421,K83,
-B15,211,655,K83,
-B16,211,411,K92,
-B17,211,421,K92,
-B18,211,655,K92,
-B19,211,411,K93,
-B20,211,421,K93,
-B21,211,655,K93,
-B22,211,411,K102,
-B23,211,421,K102,
-B24,211,655,K102,
-C01,211,411,K103,
-C02,211,421,K103,
-C03,211,655,K103,
-C04,211,411,K112,
-C05,211,421,K112,
-C06,211,655,K112,
-C07,211,411,K113,
-C08,211,421,K113,
-C09,211,655,K113,
-C10,211,411,K122,
-C11,211,421,K122,
-C12,211,655,K122,
-C13,211,411,K123,
-C14,211,421,K123,
-C15,211,655,K123,
-C16,NA,NA,NA,
-C17,NA,NA,NA,
-C18,NA,NA,NA,
-C19,NA,NA,NA,
-C20,NA,NA,NA,
-C21,NA,NA,NA,
-C22,NA,NA,NA,
-C23,NA,NA,NA,
-C24,NA,NA,NA,
-D01,NA,NA,NA,
-D02,NA,NA,NA,
-D03,NA,NA,NA,
-D04,NA,NA,NA,
-D05,NA,NA,NA,
-D06,NA,NA,NA,
-D07,NA,NA,NA,
-D08,NA,NA,NA,
-D09,NA,NA,NA,
-D10,NA,NA,NA,
-D11,NA,NA,NA,
-D12,NA,NA,NA,
-D13,NA,NA,NA,
-D14,NA,NA,NA,
-D15,NA,NA,NA,
-D16,NA,NA,NA,
-D17,NA,NA,NA,
-D18,NA,NA,NA,
-D19,NA,NA,NA,
-D20,NA,NA,NA,
-D21,NA,NA,NA,
-D22,NA,NA,NA,
-D23,NA,NA,NA,
-D24,NA,NA,NA,
-E01,NA,NA,NA,
-E02,NA,NA,NA,
-E03,NA,NA,NA,
-E04,NA,NA,NA,
-E05,NA,NA,NA,
-E06,NA,NA,NA,
-E07,NA,NA,NA,
-E08,NA,NA,NA,
-E09,NA,NA,NA,
-E10,NA,NA,NA,
-E11,NA,NA,NA,
-E12,NA,NA,NA,
-E13,NA,NA,NA,
-E14,NA,NA,NA,
-E15,NA,NA,NA,
-E16,NA,NA,NA,
-E17,NA,NA,NA,
-E18,NA,NA,NA,
-E19,NA,NA,NA,
-E20,NA,NA,NA,
-E21,NA,NA,NA,
-E22,NA,NA,NA,
-E23,NA,NA,NA,
-E24,NA,NA,NA,
-F01,NA,NA,NA,
-F02,NA,NA,NA,
-F03,NA,NA,NA,
-F04,NA,NA,NA,
-F05,NA,NA,NA,
-F06,NA,NA,NA,
-F07,NA,NA,NA,
-F08,NA,NA,NA,
-F09,NA,NA,NA,
-F10,NA,NA,NA,
-F11,NA,NA,NA,
-F12,NA,NA,NA,
-F13,NA,NA,NA,
-F14,NA,NA,NA,
-F15,NA,NA,NA,
-F16,NA,NA,NA,
-F17,NA,NA,NA,
-F18,NA,NA,NA,
-F19,NA,NA,NA,
-F20,NA,NA,NA,
-F21,NA,NA,NA,
-F22,NA,NA,NA,
-F23,NA,NA,NA,
-F24,NA,NA,NA,
-G01,NA,NA,NA,
-G02,NA,NA,NA,
-G03,NA,NA,NA,
-G04,NA,NA,NA,
-G05,NA,NA,NA,
-G06,NA,NA,NA,
-G07,NA,NA,NA,
-G08,NA,NA,NA,
-G09,NA,NA,NA,
-G10,NA,NA,NA,
-G11,NA,NA,NA,
-G12,NA,NA,NA,
-G13,NA,NA,NA,
-G14,NA,NA,NA,
-G15,NA,NA,NA,
-G16,NA,NA,NA,
-G17,NA,NA,NA,
-G18,NA,NA,NA,
-G19,NA,NA,NA,
-G20,NA,NA,NA,
-G21,NA,NA,NA,
-G22,NA,NA,NA,
-G23,NA,NA,NA,
-G24,NA,NA,NA,
-H01,NA,NA,NA,
-H02,NA,NA,NA,
-H03,NA,NA,NA,
-H04,NA,NA,NA,
-H05,NA,NA,NA,
-H06,NA,NA,NA,
-H07,NA,NA,NA,
-H08,NA,NA,NA,
-H09,NA,NA,NA,
-H10,NA,NA,NA,
-H11,NA,NA,NA,
-H12,NA,NA,NA,
-H13,NA,NA,NA,
-H14,NA,NA,NA,
-H15,NA,NA,NA,
-H16,NA,NA,NA,
-H17,NA,NA,NA,
-H18,NA,NA,NA,
-H19,NA,NA,NA,
-H20,NA,NA,NA,
-H21,NA,NA,NA,
-H22,NA,NA,NA,
-H23,NA,NA,NA,
-H24,NA,NA,NA,
-I01,NA,NA,NA,
-I02,NA,NA,NA,
-I03,NA,NA,NA,
-I04,NA,NA,NA,
-I05,NA,NA,NA,
-I06,NA,NA,NA,
-I07,NA,NA,NA,
-I08,NA,NA,NA,
-I09,NA,NA,NA,
-I10,NA,NA,NA,
-I11,NA,NA,NA,
-I12,NA,NA,NA,
-I13,NA,NA,NA,
-I14,NA,NA,NA,
-I15,NA,NA,NA,
-I16,NA,NA,NA,
-I17,NA,NA,NA,
-I18,NA,NA,NA,
-I19,NA,NA,NA,
-I20,NA,NA,NA,
-I21,NA,NA,NA,
-I22,NA,NA,NA,
-I23,NA,NA,NA,
-I24,NA,NA,NA,
-J01,NA,NA,NA,
-J02,NA,NA,NA,
-J03,NA,NA,NA,
-J04,NA,NA,NA,
-J05,NA,NA,NA,
-J06,NA,NA,NA,
-J07,NA,NA,NA,
-J08,NA,NA,NA,
-J09,NA,NA,NA,
-J10,NA,NA,NA,
-J11,NA,NA,NA,
-J12,NA,NA,NA,
-J13,NA,NA,NA,
-J14,NA,NA,NA,
-J15,NA,NA,NA,
-J16,NA,NA,NA,
-J17,NA,NA,NA,
-J18,NA,NA,NA,
-J19,NA,NA,NA,
-J20,NA,NA,NA,
-J21,NA,NA,NA,
-J22,NA,NA,NA,
-J23,NA,NA,NA,
-J24,NA,NA,NA,
-K01,NA,NA,NA,
-K02,NA,NA,NA,
-K03,NA,NA,NA,
-K04,NA,NA,NA,
-K05,NA,NA,NA,
-K06,NA,NA,NA,
-K07,NA,NA,NA,
-K08,NA,NA,NA,
-K09,NA,NA,NA,
-K10,NA,NA,NA,
-K11,NA,NA,NA,
-K12,NA,NA,NA,
-K13,NA,NA,NA,
-K14,NA,NA,NA,
-K15,NA,NA,NA,
-K16,NA,NA,NA,
-K17,NA,NA,NA,
-K18,NA,NA,NA,
-K19,NA,NA,NA,
-K20,NA,NA,NA,
-K21,NA,NA,NA,
-K22,NA,NA,NA,
-K23,NA,NA,NA,
-K24,NA,NA,NA,
-L01,NA,NA,NA,
-L02,NA,NA,NA,
-L03,NA,NA,NA,
-L04,NA,NA,NA,
-L05,NA,NA,NA,
-L06,NA,NA,NA,
-L07,NA,NA,NA,
-L08,NA,NA,NA,
-L09,NA,NA,NA,
-L10,NA,NA,NA,
-L11,NA,NA,NA,
-L12,NA,NA,NA,
-L13,NA,NA,NA,
-L14,NA,NA,NA,
-L15,NA,NA,NA,
-L16,NA,NA,NA,
-L17,NA,NA,NA,
-L18,NA,NA,NA,
-L19,NA,NA,NA,
-L20,NA,NA,NA,
-L21,NA,NA,NA,
-L22,NA,NA,NA,
-L23,NA,NA,NA,
-L24,NA,NA,NA,
-M01,NA,NA,NA,
-M02,NA,NA,NA,
-M03,NA,NA,NA,
-M04,NA,NA,NA,
-M05,NA,NA,NA,
-M06,NA,NA,NA,
-M07,NA,NA,NA,
-M08,NA,NA,NA,
-M09,NA,NA,NA,
-M10,NA,NA,NA,
-M11,NA,NA,NA,
-M12,NA,NA,NA,
-M13,NA,NA,NA,
-M14,NA,NA,NA,
-M15,NA,NA,NA,
-M16,NA,NA,NA,
-M17,NA,NA,NA,
-M18,NA,NA,NA,
-M19,NA,NA,NA,
-M20,NA,NA,NA,
-M21,NA,NA,NA,
-M22,NA,NA,NA,
-M23,NA,NA,NA,
-M24,NA,NA,NA,
-N01,NA,NA,NA,
-N02,NA,NA,NA,
-N03,NA,NA,NA,
-N04,NA,NA,NA,
-N05,NA,NA,NA,
-N06,NA,NA,NA,
-N07,NA,NA,NA,
-N08,NA,NA,NA,
-N09,NA,NA,NA,
-N10,NA,NA,NA,
-N11,NA,NA,NA,
-N12,NA,NA,NA,
-N13,NA,NA,NA,
-N14,NA,NA,NA,
-N15,NA,NA,NA,
-N16,NA,NA,NA,
-N17,NA,NA,NA,
-N18,NA,NA,NA,
-N19,NA,NA,NA,
-N20,NA,NA,NA,
-N21,NA,NA,NA,
-N22,NA,NA,NA,
-N23,NA,NA,NA,
-N24,NA,NA,NA,
-O01,NA,NA,NA,
-O02,NA,NA,NA,
-O03,NA,NA,NA,
-O04,NA,NA,NA,
-O05,NA,NA,NA,
-O06,NA,NA,NA,
-O07,NA,NA,NA,
-O08,NA,NA,NA,
-O09,NA,NA,NA,
-O10,NA,NA,NA,
-O11,NA,NA,NA,
-O12,NA,NA,NA,
-O13,NA,NA,NA,
-O14,NA,NA,NA,
-O15,NA,NA,NA,
-O16,NA,NA,NA,
-O17,NA,NA,NA,
-O18,NA,NA,NA,
-O19,NA,NA,NA,
-O20,NA,NA,NA,
-O21,NA,NA,NA,
-O22,NA,NA,NA,
-O23,NA,NA,NA,
-O24,NA,NA,NA,
-P01,NA,NA,NA,
-P02,NA,NA,NA,
-P03,NA,NA,NA,
-P04,NA,NA,NA,
-P05,NA,NA,NA,
-P06,NA,NA,NA,
-P07,NA,NA,NA,
-P08,NA,NA,NA,
-P09,NA,NA,NA,
-P10,NA,NA,NA,
-P11,NA,NA,NA,
-P12,NA,NA,NA,
-P13,NA,NA,NA,
-P14,NA,NA,NA,
-P15,NA,NA,NA,
-P16,NA,NA,NA,
-P17,NA,NA,NA,
-P18,NA,NA,NA,
-P19,NA,NA,NA,
-P20,NA,NA,NA,
-P21,NA,NA,NA,
-P22,NA,NA,NA,
-P23,NA,NA,NA,
-P24,NA,NA,NA,
+﻿well,GFP,RFP,bio_replica,tech_replica,pdb,description,organism
+A1,v401,4ltb-Im2_V37A,1,1,1q5y,wt_nickel_responsive_regulator,E. coli
+A2,v401,4ltb-Im2_V37A,2,2,1q5y,wt_nickel_responsive_regulator,E. coli
+A3,v401,4ltb-Im2_V37A,3,3,1q5y,wt_nickel_responsive_regulator,E. coli
+A4,v401,4ltb-Im2_V37A,4,4,1q5y,wt_nickel_responsive_regulator,E. coli
+A5,v401,4ltb-Im2_V37A,5,5,1q5y,wt_nickel_responsive_regulator,E. coli
+A6,v401,4ltb-Im2_V37A,6,6,1q5y,wt_nickel_responsive_regulator,E. coli
+A7,v401,4ltb-Im2_V37A,1,7,1q5y,wt_nickel_responsive_regulator,E. coli
+A8,v401,4ltb-Im2_V37A,2,8,1q5y,wt_nickel_responsive_regulator,E. coli
+A9,v401,4ltb-Im2_V37A,3,9,1q5y,wt_nickel_responsive_regulator,E. coli
+A10,v401,4ltb-Im2_V37A,4,10,1q5y,wt_nickel_responsive_regulator,E. coli
+A11,v401,4ltb-Im2_V37A,5,11,1q5y,wt_nickel_responsive_regulator,E. coli
+A12,v401,4ltb-Im2_V37A,6,12,1q5y,wt_nickel_responsive_regulator,E. coli
+A13,v402,4ltb-Im2_V37A,1,1,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A14,v402,4ltb-Im2_V37A,2,2,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A15,v402,4ltb-Im2_V37A,3,3,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A16,v402,4ltb-Im2_V37A,4,4,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A17,v402,4ltb-Im2_V37A,5,5,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A18,v402,4ltb-Im2_V37A,6,6,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A19,v402,4ltb-Im2_V37A,1,7,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A20,v402,4ltb-Im2_V37A,2,8,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A21,v402,4ltb-Im2_V37A,3,9,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A22,v402,4ltb-Im2_V37A,4,10,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A23,v402,4ltb-Im2_V37A,5,11,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+A24,v402,4ltb-Im2_V37A,6,12,1q5y_mut,mut_nickel_responsive_regulator,E. coli
+B1,v403,4ltb-Im2_V37A,1,1,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B2,v403,4ltb-Im2_V37A,2,2,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B3,v403,4ltb-Im2_V37A,3,3,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B4,v403,4ltb-Im2_V37A,4,4,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B5,v403,4ltb-Im2_V37A,5,5,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B6,v403,4ltb-Im2_V37A,6,6,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B7,v403,4ltb-Im2_V37A,1,7,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B8,v403,4ltb-Im2_V37A,2,8,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B9,v403,4ltb-Im2_V37A,3,9,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B10,v403,4ltb-Im2_V37A,4,10,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B11,v403,4ltb-Im2_V37A,5,11,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B12,v403,4ltb-Im2_V37A,6,12,2bj1,put_Ni_responsive_regulator,P. horikoshii OT3
+B13,v404,4ltb-Im2_V37A,1,1,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B14,v404,4ltb-Im2_V37A,2,2,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B15,v404,4ltb-Im2_V37A,3,3,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B16,v404,4ltb-Im2_V37A,4,4,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B17,v404,4ltb-Im2_V37A,5,5,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B18,v404,4ltb-Im2_V37A,6,6,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B19,v404,4ltb-Im2_V37A,1,7,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B20,v404,4ltb-Im2_V37A,2,8,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B21,v404,4ltb-Im2_V37A,3,9,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B22,v404,4ltb-Im2_V37A,4,10,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B23,v404,4ltb-Im2_V37A,5,11,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+B24,v404,4ltb-Im2_V37A,6,12,2bj1_mut,mut_put_nickel_responsive_regulator,P. horikoshii OT3
+C1,v1201,4ltb-Im2_V37A,1,1,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C2,v1201,4ltb-Im2_V37A,2,2,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C3,v1201,4ltb-Im2_V37A,3,3,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C4,v1201,4ltb-Im2_V37A,4,4,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C5,v1201,4ltb-Im2_V37A,5,5,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C6,v1201,4ltb-Im2_V37A,6,6,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C7,v1201,4ltb-Im2_V37A,1,7,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C8,v1201,4ltb-Im2_V37A,2,8,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C9,v1201,4ltb-Im2_V37A,3,9,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C10,v1201,4ltb-Im2_V37A,4,10,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C11,v1201,4ltb-Im2_V37A,5,11,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C12,v1201,4ltb-Im2_V37A,6,12,2cz8,dodecin_putative_protein,T. thermophilus HB8
+C13,v2401,4ltb-Im2_V37A,1,1,1sq3_E65R,Ferritin,A. fulgidus
+C14,v2401,4ltb-Im2_V37A,2,2,1sq3_E65R,Ferritin,A. fulgidus
+C15,v2401,4ltb-Im2_V37A,3,3,1sq3_E65R,Ferritin,A. fulgidus
+C16,v2401,4ltb-Im2_V37A,4,4,1sq3_E65R,Ferritin,A. fulgidus
+C17,v2401,4ltb-Im2_V37A,5,5,1sq3_E65R,Ferritin,A. fulgidus
+C18,v2401,4ltb-Im2_V37A,6,6,1sq3_E65R,Ferritin,A. fulgidus
+C19,v2401,4ltb-Im2_V37A,1,7,1sq3_E65R,Ferritin,A. fulgidus
+C20,v2401,4ltb-Im2_V37A,2,8,1sq3_E65R,Ferritin,A. fulgidus
+C21,v2401,4ltb-Im2_V37A,3,9,1sq3_E65R,Ferritin,A. fulgidus
+C22,v2401,4ltb-Im2_V37A,4,10,1sq3_E65R,Ferritin,A. fulgidus
+C23,v2401,4ltb-Im2_V37A,5,11,1sq3_E65R,Ferritin,A. fulgidus
+C24,v2401,4ltb-Im2_V37A,6,12,1sq3_E65R,Ferritin,A. fulgidus
+D1,v601,4ltb-Im2_V37A,1,1,2opa,Mut_4_ot_tautomerase,B. subtilis
+D2,v601,4ltb-Im2_V37A,2,2,2opa,Mut_4_ot_tautomerase,B. subtilis
+D3,v601,4ltb-Im2_V37A,3,3,2opa,Mut_4_ot_tautomerase,B. subtilis
+D4,v601,4ltb-Im2_V37A,4,4,2opa,Mut_4_ot_tautomerase,B. subtilis
+D5,v601,4ltb-Im2_V37A,5,5,2opa,Mut_4_ot_tautomerase,B. subtilis
+D6,v601,4ltb-Im2_V37A,6,6,2opa,Mut_4_ot_tautomerase,B. subtilis
+D7,v601,4ltb-Im2_V37A,1,7,2opa,Mut_4_ot_tautomerase,B. subtilis
+D8,v601,4ltb-Im2_V37A,2,8,2opa,Mut_4_ot_tautomerase,B. subtilis
+D9,v601,4ltb-Im2_V37A,3,9,2opa,Mut_4_ot_tautomerase,B. subtilis
+D10,v601,4ltb-Im2_V37A,4,10,2opa,Mut_4_ot_tautomerase,B. subtilis
+D11,v601,4ltb-Im2_V37A,5,11,2opa,Mut_4_ot_tautomerase,B. subtilis
+D12,v601,4ltb-Im2_V37A,6,12,2opa,Mut_4_ot_tautomerase,B. subtilis
+D13,v602,4ltb-Im2_V37A,1,1,4ntk,mut_cph4_synthase,E. coli K-12
+D14,v602,4ltb-Im2_V37A,2,2,4ntk,mut_cph4_synthase,E. coli K-12
+D15,v602,4ltb-Im2_V37A,3,3,4ntk,mut_cph4_synthase,E. coli K-12
+D16,v602,4ltb-Im2_V37A,4,4,4ntk,mut_cph4_synthase,E. coli K-12
+D17,v602,4ltb-Im2_V37A,5,5,4ntk,mut_cph4_synthase,E. coli K-12
+D18,v602,4ltb-Im2_V37A,6,6,4ntk,mut_cph4_synthase,E. coli K-12
+D19,v602,4ltb-Im2_V37A,1,7,4ntk,mut_cph4_synthase,E. coli K-12
+D20,v602,4ltb-Im2_V37A,2,8,4ntk,mut_cph4_synthase,E. coli K-12
+D21,v602,4ltb-Im2_V37A,3,9,4ntk,mut_cph4_synthase,E. coli K-12
+D22,v602,4ltb-Im2_V37A,4,10,4ntk,mut_cph4_synthase,E. coli K-12
+D23,v602,4ltb-Im2_V37A,5,11,4ntk,mut_cph4_synthase,E. coli K-12
+D24,v602,4ltb-Im2_V37A,6,12,4ntk,mut_cph4_synthase,E. coli K-12
+E1,v603,4ltb-Im2_V37A,1,1,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E2,v603,4ltb-Im2_V37A,2,2,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E3,v603,4ltb-Im2_V37A,3,3,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E4,v603,4ltb-Im2_V37A,4,4,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E5,v603,4ltb-Im2_V37A,5,5,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E6,v603,4ltb-Im2_V37A,6,6,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E7,v603,4ltb-Im2_V37A,1,7,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E8,v603,4ltb-Im2_V37A,2,8,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E9,v603,4ltb-Im2_V37A,3,9,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E10,v603,4ltb-Im2_V37A,4,10,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E11,v603,4ltb-Im2_V37A,5,11,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E12,v603,4ltb-Im2_V37A,6,12,4ok9,wt_HutP_rna_binding_protein,G. thermodenitrificans
+E13,p53-E9,4ltb-Im2_V37A,1,1,NA,Control - Mesh with V37A,NA
+E14,p53-E9,4ltb-Im2_V37A,2,2,NA,Control - Mesh with V37A,NA
+E15,p53-E9,4ltb-Im2_V37A,3,3,NA,Control - Mesh with V37A,NA
+E16,p53-E9,4ltb-Im2_V37A,4,4,NA,Control - Mesh with V37A,NA
+E17,p53-E9,4ltb-Im2_V37A,5,5,NA,Control - Mesh with V37A,NA
+E18,p53-E9,4ltb-Im2_V37A,6,6,NA,Control - Mesh with V37A,NA
+E19,p53-E9,4ltb-Im2_V37A,1,7,NA,Control - Mesh with V37A,NA
+E20,p53-E9,4ltb-Im2_V37A,2,8,NA,Control - Mesh with V37A,NA
+E21,p53-E9,4ltb-Im2_V37A,3,9,NA,Control - Mesh with V37A,NA
+E22,p53-E9,4ltb-Im2_V37A,4,10,NA,Control - Mesh with V37A,NA
+E23,p53-E9,4ltb-Im2_V37A,5,11,NA,Control - Mesh with V37A,NA
+E24,p53-E9,4ltb-Im2_V37A,6,12,NA,Control - Mesh with V37A,NA
+F1,v801,4ltb-Im2_V37A,1,1,2h4o,YonK_uncharacterized_protein,B. subtilis
+F2,v801,4ltb-Im2_V37A,2,2,2h4o,YonK_uncharacterized_protein,B. subtilis
+F3,v801,4ltb-Im2_V37A,3,3,2h4o,YonK_uncharacterized_protein,B. subtilis
+F4,v801,4ltb-Im2_V37A,4,4,2h4o,YonK_uncharacterized_protein,B. subtilis
+F5,v801,4ltb-Im2_V37A,5,5,2h4o,YonK_uncharacterized_protein,B. subtilis
+F6,v801,4ltb-Im2_V37A,6,6,2h4o,YonK_uncharacterized_protein,B. subtilis
+F7,v801,4ltb-Im2_V37A,1,7,2h4o,YonK_uncharacterized_protein,B. subtilis
+F8,v801,4ltb-Im2_V37A,2,8,2h4o,YonK_uncharacterized_protein,B. subtilis
+F9,v801,4ltb-Im2_V37A,3,9,2h4o,YonK_uncharacterized_protein,B. subtilis
+F10,v801,4ltb-Im2_V37A,4,10,2h4o,YonK_uncharacterized_protein,B. subtilis
+F11,v801,4ltb-Im2_V37A,5,11,2h4o,YonK_uncharacterized_protein,B. subtilis
+F12,v801,4ltb-Im2_V37A,6,12,2h4o,YonK_uncharacterized_protein,B. subtilis
+F13,v802,4ltb-Im2_V37A,1,1,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F14,v802,4ltb-Im2_V37A,2,2,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F15,v802,4ltb-Im2_V37A,3,3,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F16,v802,4ltb-Im2_V37A,4,4,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F17,v802,4ltb-Im2_V37A,5,5,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F18,v802,4ltb-Im2_V37A,6,6,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F19,v802,4ltb-Im2_V37A,1,7,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F20,v802,4ltb-Im2_V37A,2,8,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F21,v802,4ltb-Im2_V37A,3,9,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F22,v802,4ltb-Im2_V37A,4,10,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F23,v802,4ltb-Im2_V37A,5,11,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+F24,v802,4ltb-Im2_V37A,6,12,2e7w,mut_glutamine_receptor_protein,S. tokodaii
+G01,v405,4ltb-Im2_V37A,1,1,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G02,v405,4ltb-Im2_V37A,2,2,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G03,v405,4ltb-Im2_V37A,3,3,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G04,v405,4ltb-Im2_V37A,4,4,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G05,v405,4ltb-Im2_V37A,5,5,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G06,v405,4ltb-Im2_V37A,6,6,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G07,v405,4ltb-Im2_V37A,1,7,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G08,v405,4ltb-Im2_V37A,2,8,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G09,v405,4ltb-Im2_V37A,3,9,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G10,v405,4ltb-Im2_V37A,4,10,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G11,v405,4ltb-Im2_V37A,5,11,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G12,v405,4ltb-Im2_V37A,6,12,1lxn,hypothetical_protein_mth1187,M. thermautotrophicus
+G13,v406,4ltb-Im2_V37A,1,1,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G14,v406,4ltb-Im2_V37A,2,2,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G15,v406,4ltb-Im2_V37A,3,3,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G16,v406,4ltb-Im2_V37A,4,4,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G17,v406,4ltb-Im2_V37A,5,5,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G18,v406,4ltb-Im2_V37A,6,6,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G19,v406,4ltb-Im2_V37A,1,7,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G20,v406,4ltb-Im2_V37A,2,8,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G21,v406,4ltb-Im2_V37A,3,9,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G22,v406,4ltb-Im2_V37A,4,10,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G23,v406,4ltb-Im2_V37A,5,11,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+G24,v406,4ltb-Im2_V37A,6,12,3aai,wt_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H01,C-,C-,NA,NA,NA,NA,NA
+H02,C-,C-,NA,NA,NA,NA,NA
+H03,C-,C-,NA,NA,NA,NA,NA
+H04,C-,C-,NA,NA,NA,NA,NA
+H05,C-,C-,NA,NA,NA,NA,NA
+H06,C-,C-,NA,NA,NA,NA,NA
+H07,C-,C-,NA,NA,NA,NA,NA
+H08,C-,C-,NA,NA,NA,NA,NA
+H09,C-,C-,NA,NA,NA,NA,NA
+H10,C-,C-,NA,NA,NA,NA,NA
+H11,C-,C-,NA,NA,NA,NA,NA
+H12,C-,C-,NA,NA,NA,NA,NA
+H13,v407,4ltb-Im2_V37A,1,1,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H14,v407,4ltb-Im2_V37A,2,2,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H15,v407,4ltb-Im2_V37A,3,3,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H16,v407,4ltb-Im2_V37A,4,4,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H17,v407,4ltb-Im2_V37A,5,5,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H18,v407,4ltb-Im2_V37A,6,6,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H19,v407,4ltb-Im2_V37A,1,7,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H20,v407,4ltb-Im2_V37A,2,8,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H21,v407,4ltb-Im2_V37A,3,9,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H22,v407,4ltb-Im2_V37A,4,10,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H23,v407,4ltb-Im2_V37A,5,11,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+H24,v407,4ltb-Im2_V37A,6,12,3aai_mut,mut_cu_homeostasis_operon_regulatory_protein,T. thermophilus HB8
+I01,NA,NA,NA,,NA,NA,NA
+I02,NA,NA,NA,,NA,NA,NA
+I03,NA,NA,NA,,NA,NA,NA
+I04,NA,NA,NA,,NA,NA,NA
+I05,NA,NA,NA,,NA,NA,NA
+I06,NA,NA,NA,,NA,NA,NA
+I07,NA,NA,NA,,NA,NA,NA
+I08,NA,NA,NA,,NA,NA,NA
+I09,NA,NA,NA,,NA,NA,NA
+I10,NA,NA,NA,,NA,NA,NA
+I11,NA,NA,NA,,NA,NA,NA
+I12,NA,NA,NA,,NA,NA,NA
+I13,NA,NA,NA,,NA,NA,NA
+I14,NA,NA,NA,,NA,NA,NA
+I15,NA,NA,NA,,NA,NA,NA
+I16,NA,NA,NA,,NA,NA,NA
+I17,NA,NA,NA,,NA,NA,NA
+I18,NA,NA,NA,,NA,NA,NA
+I19,NA,NA,NA,,NA,NA,NA
+I20,NA,NA,NA,,NA,NA,NA
+I21,NA,NA,NA,,NA,NA,NA
+I22,NA,NA,NA,,NA,NA,NA
+I23,NA,NA,NA,,NA,NA,NA
+I24,NA,NA,NA,,NA,NA,NA
+J01,NA,NA,NA,,NA,NA,NA
+J02,NA,NA,NA,,NA,NA,NA
+J03,NA,NA,NA,,NA,NA,NA
+J04,NA,NA,NA,,NA,NA,NA
+J05,NA,NA,NA,,NA,NA,NA
+J06,NA,NA,NA,,NA,NA,NA
+J07,NA,NA,NA,,NA,NA,NA
+J08,NA,NA,NA,,NA,NA,NA
+J09,NA,NA,NA,,NA,NA,NA
+J10,NA,NA,NA,,NA,NA,NA
+J11,NA,NA,NA,,NA,NA,NA
+J12,NA,NA,NA,,NA,NA,NA
+J13,NA,NA,NA,,NA,NA,NA
+J14,NA,NA,NA,,NA,NA,NA
+J15,NA,NA,NA,,NA,NA,NA
+J16,NA,NA,NA,,NA,NA,NA
+J17,NA,NA,NA,,NA,NA,NA
+J18,NA,NA,NA,,NA,NA,NA
+J19,NA,NA,NA,,NA,NA,NA
+J20,NA,NA,NA,,NA,NA,NA
+J21,NA,NA,NA,,NA,NA,NA
+J22,NA,NA,NA,,NA,NA,NA
+J23,NA,NA,NA,,NA,NA,NA
+J24,NA,NA,NA,,NA,NA,NA
+K01,NA,NA,NA,,NA,NA,NA
+K02,NA,NA,NA,,NA,NA,NA
+K03,NA,NA,NA,,NA,NA,NA
+K04,NA,NA,NA,,NA,NA,NA
+K05,NA,NA,NA,,NA,NA,NA
+K06,NA,NA,NA,,NA,NA,NA
+K07,NA,NA,NA,,NA,NA,NA
+K08,NA,NA,NA,,NA,NA,NA
+K09,NA,NA,NA,,NA,NA,NA
+K10,NA,NA,NA,,NA,NA,NA
+K11,NA,NA,NA,,NA,NA,NA
+K12,NA,NA,NA,,NA,NA,NA
+K13,NA,NA,NA,,NA,NA,NA
+K14,NA,NA,NA,,NA,NA,NA
+K15,NA,NA,NA,,NA,NA,NA
+K16,NA,NA,NA,,NA,NA,NA
+K17,NA,NA,NA,,NA,NA,NA
+K18,NA,NA,NA,,NA,NA,NA
+K19,NA,NA,NA,,NA,NA,NA
+K20,NA,NA,NA,,NA,NA,NA
+K21,NA,NA,NA,,NA,NA,NA
+K22,NA,NA,NA,,NA,NA,NA
+K23,NA,NA,NA,,NA,NA,NA
+K24,NA,NA,NA,,NA,NA,NA
+L01,NA,NA,NA,,NA,NA,NA
+L02,NA,NA,NA,,NA,NA,NA
+L03,NA,NA,NA,,NA,NA,NA
+L04,NA,NA,NA,,NA,NA,NA
+L05,NA,NA,NA,,NA,NA,NA
+L06,NA,NA,NA,,NA,NA,NA
+L07,NA,NA,NA,,NA,NA,NA
+L08,NA,NA,NA,,NA,NA,NA
+L09,NA,NA,NA,,NA,NA,NA
+L10,NA,NA,NA,,NA,NA,NA
+L11,NA,NA,NA,,NA,NA,NA
+L12,NA,NA,NA,,NA,NA,NA
+L13,NA,NA,NA,,NA,NA,NA
+L14,NA,NA,NA,,NA,NA,NA
+L15,NA,NA,NA,,NA,NA,NA
+L16,NA,NA,NA,,NA,NA,NA
+L17,NA,NA,NA,,NA,NA,NA
+L18,NA,NA,NA,,NA,NA,NA
+L19,NA,NA,NA,,NA,NA,NA
+L20,NA,NA,NA,,NA,NA,NA
+L21,NA,NA,NA,,NA,NA,NA
+L22,NA,NA,NA,,NA,NA,NA
+L23,NA,NA,NA,,NA,NA,NA
+L24,NA,NA,NA,,NA,NA,NA
+M01,NA,NA,NA,,NA,NA,NA
+M02,NA,NA,NA,,NA,NA,NA
+M03,NA,NA,NA,,NA,NA,NA
+M04,NA,NA,NA,,NA,NA,NA
+M05,NA,NA,NA,,NA,NA,NA
+M06,NA,NA,NA,,NA,NA,NA
+M07,NA,NA,NA,,NA,NA,NA
+M08,NA,NA,NA,,NA,NA,NA
+M09,NA,NA,NA,,NA,NA,NA
+M10,NA,NA,NA,,NA,NA,NA
+M11,NA,NA,NA,,NA,NA,NA
+M12,NA,NA,NA,,NA,NA,NA
+M13,NA,NA,NA,,NA,NA,NA
+M14,NA,NA,NA,,NA,NA,NA
+M15,NA,NA,NA,,NA,NA,NA
+M16,NA,NA,NA,,NA,NA,NA
+M17,NA,NA,NA,,NA,NA,NA
+M18,NA,NA,NA,,NA,NA,NA
+M19,NA,NA,NA,,NA,NA,NA
+M20,NA,NA,NA,,NA,NA,NA
+M21,NA,NA,NA,,NA,NA,NA
+M22,NA,NA,NA,,NA,NA,NA
+M23,NA,NA,NA,,NA,NA,NA
+M24,NA,NA,NA,,NA,NA,NA
+N01,NA,NA,NA,,NA,NA,NA
+N02,NA,NA,NA,,NA,NA,NA
+N03,NA,NA,NA,,NA,NA,NA
+N04,NA,NA,NA,,NA,NA,NA
+N05,NA,NA,NA,,NA,NA,NA
+N06,NA,NA,NA,,NA,NA,NA
+N07,NA,NA,NA,,NA,NA,NA
+N08,NA,NA,NA,,NA,NA,NA
+N09,NA,NA,NA,,NA,NA,NA
+N10,NA,NA,NA,,NA,NA,NA
+N11,NA,NA,NA,,NA,NA,NA
+N12,NA,NA,NA,,NA,NA,NA
+N13,NA,NA,NA,,NA,NA,NA
+N14,NA,NA,NA,,NA,NA,NA
+N15,NA,NA,NA,,NA,NA,NA
+N16,NA,NA,NA,,NA,NA,NA
+N17,NA,NA,NA,,NA,NA,NA
+N18,NA,NA,NA,,NA,NA,NA
+N19,NA,NA,NA,,NA,NA,NA
+N20,NA,NA,NA,,NA,NA,NA
+N21,NA,NA,NA,,NA,NA,NA
+N22,NA,NA,NA,,NA,NA,NA
+N23,NA,NA,NA,,NA,NA,NA
+N24,NA,NA,NA,,NA,NA,NA
+O01,NA,NA,NA,,NA,NA,NA
+O02,NA,NA,NA,,NA,NA,NA
+O03,NA,NA,NA,,NA,NA,NA
+O04,NA,NA,NA,,NA,NA,NA
+O05,NA,NA,NA,,NA,NA,NA
+O06,NA,NA,NA,,NA,NA,NA
+O07,NA,NA,NA,,NA,NA,NA
+O08,NA,NA,NA,,NA,NA,NA
+O09,NA,NA,NA,,NA,NA,NA
+O10,NA,NA,NA,,NA,NA,NA
+O11,NA,NA,NA,,NA,NA,NA
+O12,NA,NA,NA,,NA,NA,NA
+O13,NA,NA,NA,,NA,NA,NA
+O14,NA,NA,NA,,NA,NA,NA
+O15,NA,NA,NA,,NA,NA,NA
+O16,NA,NA,NA,,NA,NA,NA
+O17,NA,NA,NA,,NA,NA,NA
+O18,NA,NA,NA,,NA,NA,NA
+O19,NA,NA,NA,,NA,NA,NA
+O20,NA,NA,NA,,NA,NA,NA
+O21,NA,NA,NA,,NA,NA,NA
+O22,NA,NA,NA,,NA,NA,NA
+O23,NA,NA,NA,,NA,NA,NA
+O24,NA,NA,NA,,NA,NA,NA
+P01,NA,NA,NA,,NA,NA,NA
+P02,NA,NA,NA,,NA,NA,NA
+P03,NA,NA,NA,,NA,NA,NA
+P04,NA,NA,NA,,NA,NA,NA
+P05,NA,NA,NA,,NA,NA,NA
+P06,NA,NA,NA,,NA,NA,NA
+P07,NA,NA,NA,,NA,NA,NA
+P08,NA,NA,NA,,NA,NA,NA
+P09,NA,NA,NA,,NA,NA,NA
+P10,NA,NA,NA,,NA,NA,NA
+P11,NA,NA,NA,,NA,NA,NA
+P12,NA,NA,NA,,NA,NA,NA
+P13,NA,NA,NA,,NA,NA,NA
+P14,NA,NA,NA,,NA,NA,NA
+P15,NA,NA,NA,,NA,NA,NA
+P16,NA,NA,NA,,NA,NA,NA
+P17,NA,NA,NA,,NA,NA,NA
+P18,NA,NA,NA,,NA,NA,NA
+P19,NA,NA,NA,,NA,NA,NA
+P20,NA,NA,NA,,NA,NA,NA
+P21,NA,NA,NA,,NA,NA,NA
+P22,NA,NA,NA,,NA,NA,NA
+P23,NA,NA,NA,,NA,NA,NA
+P24,NA,NA,NA,,NA,NA,NA
