@@ -421,7 +421,8 @@ uscope.process.estimate.background = function(data, design){
                     return( min(x[,cols.fluo]) )
                 }
             })            
-
+            
+            print(median(tmp, na.rm=TRUE))
             if(median(tmp, na.rm=TRUE) < 80){
                 print(paste("Plate ",K," and chanel ",each.ch,": strange, median below 80 -- tmp="))
                 print(tmp)
