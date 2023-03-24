@@ -1,18 +1,14 @@
 # Confocal Microscopy Images Analysis
 
 * [Project Description](#project-description)
-* [Detailed Script Description](#detailed-script-description)
-  * [Public Scripts Description](#public-scripts-description)
-  * [Private Scripts Description](#private-scripts-description)
+* [Public Scripts Description](#public-scripts-description)
+* [Private Scripts Description](#private-scripts-description)
 
 ## Project Description
 
-## Detailed Script Description
+The code in this repository is used to analyze raw data resulting from confocal microscopy images of *S. Cerevisiae* cells. In very general terms, these cells were prepared to contain two different building blocks that can assemble to form a mesoscale structure that can be observed as foci in microscopy imaging. The building blocks are based on proteins, namely a tetrameric protein with a binding domain A and a dimeric protein with a binding domain B. The two building blocks can assemble via the specific binding of domains A and B. Further, each building block is tagged with a specific fluorescent protein such that its location and abundance can be measured with microscopy. A more detailed description of these building blocks and their assembly can be found in [Nandi, Österle et al., 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.128102) (PMID: 36179193).
 
-
-To run the analysis several scripts are required which are described in detail below. 
-First, the scripts that are publicly available in this repository are described and then the private scripts. 
-Please contact me at daniel.oesterle@outlook.com to request the private scripts.
+This repository contains exemplary raw data from microscopy. This data is first processed using propietary scripts that have been developed in the [Emmanuel Levy Lab](https://www.weizmann.ac.il/CSB/ELevy/home). A short explanation of these scripts can be found in the section "Private Scripts Description". Running the analysis starting with raw data these private scripts are necessary. Please contact me at daniel.oesterle@mail.de to obtain them. 
 
 ## Public Scripts Description
 
@@ -21,7 +17,7 @@ Execute this script from the command line with `./process_results.R` or run `./p
 Most importantly, the script will look for the following files:
 * A file of ".nd" format that contains basic information about the set-up of the (automated) microscopy screen
 * A plate definition ("pdef") file of ".csv" format that contains information about the contents of each well on a 384-well plate
-* Several files of ".txt" format that are the result of prior cell identification and segmentation and contain the raw imaging data, including cell size, position and fluorescence intensities for the measured wavelengths of a specific screen as described in [Heidenreich et al.,(2020)](https://rdcu.be/cE9xO) PMID: 32661377
+* Several files of ".txt" format that are the result of prior cell identification and segmentation and contain the raw imaging data, including cell size, position and fluorescence intensities for the measured wavelengths of a specific screen as described in [Heidenreich et al.,(2020)](https://rdcu.be/cE9xO) (PMID: 32661377).
 
 Wile the files of ".nd" and ".txt" format result from the microscopy screen, the plate definition file has to be supplied by the user.
 
@@ -44,9 +40,13 @@ In the uploaded version of "phase_analysis_main.R" the function plot.overlap.gfp
 
 ## Private Scripts Description
 
-### postprocess_result_txt.R
+### raw_data_tools.R
 
-Function to perform the postprocessing using custom scripts from the [Emmanuel Levy Lab](https://www.weizmann.ac.il/CSB/ELevy/home). In brief, these scripts filter background fluorescence, outliers and cells outside of a specified size range from the raw data. A detailed description can be found in this [preprint](https://doi.org/10.1101/260695).
+This module combines the functions for raw data processing based on the proprietary scripts. It calls the functions from the other private scripts and determines the order of data cleaning steps. Further, it extracts only the data that is actually required for further analysis and visualization and returns cleaned data in a data frame. It also performs conversion of fluorescence intensity values to protein concentrations.
+
+### MicroscopeToolBox.R
+
+Contains various functions to perform the processing of raw data including filtering background fluorescence, outliers and cells outside of a specified size range. A more detailed description can be found in this [preprint](https://doi.org/10.1101/260695).
 
 ### Multiwell.R
 
@@ -55,7 +55,3 @@ This module contains several function that are used to process multiwell plates 
 ### general.R
 
 This module contains several auxiliary functions related to color scales, matrix manipulation and memory checks.
-
-### MicroscopeToolBox.R
-
-
